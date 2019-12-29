@@ -1,0 +1,119 @@
+body {
+	background-image: url(../img/111.jpg);
+	background-repeat:repeat; 
+	margin: 0 auto;
+}
+.v {
+	margin-left: 150px;
+	border: groove;
+	border-width: 2px;
+	border-radius: 3px;
+	padding: 3px 7px;
+	border-color: red;
+	color: white;
+}
+.z {
+	margin-left: 150px;
+	border: groove;
+	border-width: 2px;
+	border-radius: 3px;
+	padding: 3px 7px;
+	border-color: red;
+}
+.x {
+	margin-left: 0px;
+	border: groove;
+	border-width: 2px;
+	border-radius: 3px;
+	padding: 3px 7px;
+	border-color: red;
+}
+.c {
+	margin-left: 150px;
+	border: groove;
+	border-width: 2px;
+	border-radius: 3px;
+	padding: 3px 7px;
+	border-color: red;
+}
+header {
+	background-color: #242424;
+	color: #f4f4f4;
+	padding-top: 0px;
+	text-align: center;
+	font-size: 16px;
+	margin: 0;
+}
+
+.header {
+	padding: 14px;
+	margin-top: 0px;
+}
+
+.header li {
+	display: inline;
+	font-family: Arial;
+	border-color: red;
+	color: white;
+
+}
+.header a:hover {
+	color: red;
+}
+
+a {
+	color: white;
+	text-decoration: none;
+}
+.b img:hover {
+	cursor: hand;
+	background: url(../img/7.gif);
+	padding:300px 160px;
+}
+.n img:hover {
+	cursor: hand;
+	background: url(../img/9.gif);
+	padding:650px 900px;
+}
+.m img:hover {
+	cursor: hand;
+	background: url(../image/11.gif);
+	padding:650px 900px;
+}
+.zz {
+	margin-left: 150px;
+	border: groove;
+	border-width: 2px;
+	border-radius: 3px;
+	padding: 3px 7px;
+	border-color: red;
+}
+.b a:hover {
+	margin: none;
+	opacity: 0.3
+}
+
+.sec{
+	height: 900px;
+	width: 1000px;
+	background: rgba(0,0,0,0.3);
+	margin: 0 auto;
+	padding: 20px;
+	text-align: center;
+	color: white;
+}
+
+.img {
+	border: 2px red groove;
+}
+.img:hover {
+	background-image: url(../img/face2.jpg);
+	background-size: auto;
+	background-repeat: no-repeat;
+	padding: 0px 0px 0px 200px;
+}
+span {
+	display: inline-block;
+	text-align: center;
+	font-size: 50px;
+}
